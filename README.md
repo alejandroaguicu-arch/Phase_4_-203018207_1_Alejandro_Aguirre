@@ -27,10 +27,10 @@ The dataset used is the **Smart Agriculture Dataset**, originally selected and j
 - Wheat is the most represented crop in the dataset.
 
 ## Forum Collaboration Evidence
-*[Screenshots of the group's forum discussion will be added here.]*
+*pending upload evidence*
 
 ## Explanatory Video
-*[Link to the explanatory video will be added here once recorded.]*
+*pending upload video*
 
 ## How to Run This Project
 1. Open `Phase4_descriptive_analysis.ipynb` in Google Colab or Jupyter Notebook.
