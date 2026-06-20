@@ -13,7 +13,7 @@
 This repository contains the descriptive analysis of the **Smart Agriculture Dataset**, developed for Phase 4 of the Data Analysis course. The goal is to explore environmental and soil variables (soil type, growth stage, moisture index, temperature, and humidity) to understand the patterns behind irrigation decisions in agricultural IoT environments.
 
 ## Repository Contents
-- `Phase4_descriptive_analysis.ipynb` — Main notebook with the full descriptive analysis.
+- `Phase_4__203018207_1_Alejandro_Aguirre.ipynb` — Main notebook with the full descriptive analysis.
 - `cropdata_updated.csv` — Dataset used for the analysis (16,411 records).
 - `README.md` — This file.
 
@@ -33,6 +33,6 @@ The dataset used is the **Smart Agriculture Dataset**, originally selected and j
 *pending upload video*
 
 ## How to Run This Project
-1. Open `Phase4_descriptive_analysis.ipynb` in Google Colab or Jupyter Notebook.
+1. Open `Phase_4__203018207_1_Alejandro_Aguirre.ipynb` in Google Colab or Jupyter Notebook.
 2. Upload `cropdata_updated.csv` to the session storage.
 3. Run all cells sequentially.
